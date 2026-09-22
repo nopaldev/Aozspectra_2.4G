@@ -1,33 +1,47 @@
-Aozspectra
+# Aozspectra 📡
 
-Aozspectra is a 2.4 GHz jammer project developed for educational and experimental purposes, focusing on understanding RF interference and wireless communication behavior.
+Aozspectra adalah proyek perangkat keras eksperimental 2.4 GHz yang dikembangkan untuk tujuan edukasi dan eksperimen teknis, berfokus pada pemahaman interferensi Frekuensi Radio (RF) serta perilaku komunikasi nirkabel.
 
-Demo
+---
 
-""Aozspectra Demo" (https://img.youtube.com/vi/Jg3E5R8rWeU/maxresdefault.jpg)" (https://www.youtube.com/shorts/Jg3E5R8rWeU)
+## 🎬 Project Demo
 
-"▶ Watch the demo on YouTube" (https://www.youtube.com/shorts/Jg3E5R8rWeU)
+Klik gambar di bawah untuk menonton video demonstrasi perangkat:
 
-Overview
+[![Aozspectra Demo Video](https://img.youtube.com/vi/Jg3E5R8rWeU/hqdefault.jpg)](https://youtube.com/shorts/Jg3E5R8rWeU)
 
-Aozspectra is an experimental hardware project designed to demonstrate the effects of RF interference within the 2.4 GHz band.
+> 💡 *Catatan: Klik thumbnail di atas untuk memutar video demo di YouTube.*
 
-The project is intended for:
+---
 
-- Educational purposes
-- RF and wireless communication experiments
-- Understanding signal interference
-- Authorized laboratory testing
+## 🔍 Overview
 
-Disclaimer
+Aozspectra adalah proyek hardware eksperimental yang dirancang untuk mendemonstrasikan efek interferensi RF pada pita frekuensi 2.4 GHz.
 
-This project is intended for legal and authorized experimentation only.
+**Proyek ini ditujukan untuk:**
+* 🎓 **Tujuan Edukasi:** Pembelajaran konsep dasar sinyal RF dan keamanan jaringan nirkabel.
+* 🔬 **Eksperimen Komunikasi RF:** Menganalisis dampak gangguan sinyal pada transmisi data.
+* 📊 **Pemahaman Interferensi:** Mengamati bagaimana protokol nirkabel merespon gangguan frekuensi.
+* 🧪 **Authorized Laboratory Testing:** Pengujian terisolasi dalam lingkungan laboratorium yang terotorisasi.
 
-RF jamming can interfere with wireless communications and may be restricted or prohibited by local regulations. Do not operate the device in a way that disrupts communications belonging to other people or systems.
+---
 
-Project
+## 📋 Project Specifications
 
-Project Name: Aozspectra
-Frequency: 2.4 GHz
-Type: RF Interference / Experimental Hardware
-Purpose: Educational and Research
+| Parameter | Detail |
+| :--- | :--- |
+| **Project Name** | Aozspectra |
+| **Frequency** | 2.4 GHz ISM Band |
+| **Type** | RF Interference / Experimental Hardware |
+| **Purpose** | Educational & Research |
+
+---
+
+## ⚠️ Disclaimer
+
+1. Proyek ini dikembangkan **khusus untuk eksperimen legal dan berizin**.
+2. Pengoperasian perangkat pemancar interferensi RF dapat mengganggu komunikasi nirkabel dan dilarang atau dibatasi oleh regulasi telekomunikasi setempat.
+3. **Dilarang keras mengoperasikan perangkat ini** untuk mengganggu komunikasi milik orang lain, fasilitas umum, atau sistem terintegrasi lainnya.
+
+---
+*Created for Educational and Research Purposes.*
